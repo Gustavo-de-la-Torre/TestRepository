@@ -27,7 +27,7 @@ SECRET_KEY = '*p!qp61)qemf%n8=y^oct9u@r^24p47sthp_g2rjggj^&aqcv='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['prometeomail.pythonanywhere.com']
+ALLOWED_HOSTS = ['prometeomail.pythonanywhere.com','test']
 
 
 # Application definition
